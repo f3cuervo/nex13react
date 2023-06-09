@@ -1,11 +1,11 @@
 import React from 'react'
 
-function notFound() {
+function Login() {
   return (
     <div>
-      Error :c
+      Chimba de login 
     </div>
   )
 }
 
-export default notFound
+export default Login

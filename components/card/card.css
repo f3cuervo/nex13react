@@ -1,0 +1,8 @@
+.card{
+    background-color: beige;
+    padding: 15px;
+    border-radius: 5px;
+    width: fit-content;
+    box-shadow: 0 3px 10px #00000029;
+    color: black;
+}

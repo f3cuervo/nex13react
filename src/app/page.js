@@ -1,9 +1,10 @@
-import index from "./dashboard/page";
+
 
 export default function Home() {
   return (
     <>
-      <h1>Hola mundo desde el index</h1>
+      <h1>Welcome to ricky and morty app</h1>
+      <h2>What do you whant to see?</h2>
     </>
   );
 }
